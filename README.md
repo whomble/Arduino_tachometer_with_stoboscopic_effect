@@ -29,6 +29,16 @@ The left gift show my spindle's CNC at 12 000rpm with the matching frequency. Th
 
 # 3D Printing
 
+In most of my design I normally use screws for assembly but this time I wanted the most compact tool as possible so there is just 2 shells which can be hot glue together the everithing is wired correctly and tested. 
+You can draw a bigger shell if you are more confortable with screws or if you aren't sure of the wirring
+
+The two shells are printed with standard PLA 20% infil 3 wals and 3/4 top/bottom layers.
+
+
+All components should properly fit in the case as shown bellow. I couldn't found the proper OLED display on GrabCad but the real one fit perfectly.
+
+<img src="img/317818360_1291286928314560_3683368606675453131_n.jpg" width="450"><img src="img/317997439_802674247488038_2287532507352002169_n.jpg"  width="465">
+
 
 # Wirring
 
@@ -48,3 +58,7 @@ All the others connextion can be found on the schematic below and in the code!
 # Code
 
 The code is availlable [here](code/tachostrob.ino) nothing specific in this one except interuption but you can find a lots tutorial about that 
+
+# Tests and assembly
+
+Please don't mad
