@@ -61,4 +61,4 @@ The code is availlable [here](code/tachostrob.ino) nothing specific in this one 
 
 # Tests and assembly
 
-Please don't mad
+Please don't made the same error as me and test every functionnality before glueing the two parts
