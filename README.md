@@ -1,6 +1,6 @@
 # Arduino_tachometer_with_stoboscopic_effect
 
-<img src="img/PXL_20221204_132251795.MP.jpg" width="300"><img src="img/PXL_20221204_132245093.MP.jpg"  width="300"><img src="img/PXL_20221204_132311039.MP.jpg"  width="300">
+<img src="img/PXL_20221204_132251795.MP.jpg" width="300"><img src="img/PXL_20221204_132245093.MP.jpg" width="300"><img src="img/PXL_20221204_132311039.MP.jpg"  width="300">
 
 The purpose of this tool is to measure any rotation speed with the same accuracy as a commercial product,
 it can also blink at afrequency defined by the user to match the roatation of anything up to 1Khz.
@@ -41,4 +41,7 @@ All the others connextion can be found on the schematic below and in the code!
 
 <img src="img/Capture2.JPG" width="900">
 
+
 # Code
+
+The code is availlable [here](code/tachostrob.ino) nothing specific in this one except interuption but you can find a lots tutorial about that 
