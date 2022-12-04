@@ -34,7 +34,10 @@ The left gift show my spindle's CNC at 12 000rpm with the matching frequency. Th
 
 The wirring isn't verry complicated, the only tricky part is the mosfet wirring.
 Since its a N-Channel Mosfet the drain (middle part) is connected to the output and the source to the power suply's ground.
+
 The gate is connected to a non inverting output from the Mosfet driver, and the driver itself is powered by the 12V and the signal is send by a PWM pin from the arduino.
+
+I'll recommand you to use a small piece of perfboard to wire the mosfet and the driver properly! And please make sure tu use the appropriate wire thickness according to the current value.
 
 All the others connextion can be found on the schematic below and in the code!
 
